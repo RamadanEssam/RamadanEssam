@@ -1,121 +1,107 @@
 <p align="center">
-  <img src="assets/profile-banner.svg" alt="Ramadan Essam — Senior Software Engineer, .NET Backend and AI Integration" width="100%" />
+  <img src="assets/profile-banner.svg" alt="Ramadan Essam — Senior Software Engineer. .NET Backend, APIs, and Enterprise Integrations. Exploring Generative AI." width="100%" />
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/ramadanessameita/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge" alt="Connect on LinkedIn" /></a>
-  <a href="https://github.com/RamadanEssam/dotnet-generative-ai-learning"><img src="https://img.shields.io/badge/.NET_AI-Learning_Lab-512BD4?style=for-the-badge" alt="Explore my .NET AI learning lab" /></a>
-</p>
+# Ramadan Essam
 
-## Engineering at a glance
+**Senior Software Engineer | .NET & C# | Backend Systems, APIs & Enterprise Integrations**
 
-<table>
-<tr>
-<td width="50%" valign="top">
+Riyadh, Saudi Arabia · [LinkedIn](https://www.linkedin.com/in/ramadanessameita/) · [AI Learning Lab](https://github.com/RamadanEssam/dotnet-generative-ai-learning)
 
-### Backend & architecture
+I build and modernize enterprise applications, connect systems through secure APIs, and help teams take ownership of complex backend platforms. My professional experience spans government and business applications, legacy modernization, SSO, API gateways, and delivery coordination.
 
-**C# · .NET · ASP.NET Core**
+I am extending that backend foundation through hands-on **Generative AI learning with .NET and local Ollama**. My AI repositories are educational prototypes, separate from my professional production experience.
 
-REST APIs, Entity Framework Core, Clean Architecture, microservices, SOLID, and maintainable application boundaries.
+## Engineering dashboard
 
-</td>
-<td width="50%" valign="top">
+### 01 / Backend & architecture
 
-### Enterprise integration
+**C# · .NET · ASP.NET Core · REST APIs · Entity Framework Core**
 
-**Apigee · Ocelot · SSO**
+Clean Architecture, microservices, SOLID principles, and maintainable application boundaries. Experience supporting both modern services and legacy .NET applications.
 
-Secure integrations between business systems, API gateways, workflow integration, and technical handovers.
+### 02 / Integration & identity
 
-</td>
-</tr>
-<tr>
-<td valign="top">
+**Apigee · Ocelot · SSO · Zoho · Elsa Workflows**
 
-### Data & delivery
+API integration between enterprise systems, gateway routing, centralized authentication, and business workflow integration.
 
-**SQL Server · Oracle · Redis · Azure DevOps**
+### 03 / Data, delivery & troubleshooting
 
-Application delivery with IIS, operational troubleshooting, and centralized logging with Serilog, Elasticsearch, and Kibana.
+**SQL Server · Oracle · Redis · Azure DevOps · IIS**
 
-</td>
-<td valign="top">
+Centralized logging with Serilog, Elasticsearch, and Kibana; technical handovers, deployment coordination, and disaster-recovery readiness.
 
-### AI integration — learning in public
+### 04 / Full-stack collaboration
 
-**Microsoft.Extensions.AI · Ollama · VectorData**
+**Angular · React · Vue.js · TypeScript**
 
-Hands-on prototypes for chat, function calling, structured extraction, embeddings, and semantic search.
+Experience delivering frontend modules and integrating them with backend APIs. Backend engineering remains my primary focus.
 
-</td>
-</tr>
-</table>
+## Selected professional experience
 
-## Technology toolbox
+The following summarizes my supplied CV. Client source code and internal implementation details are not published here.
 
-**Backend**
+- **Senior Software Engineer (contract), Ministry of Justice — Aug 2025 to present.** .NET backend development, government-system API integrations through Apigee, Oracle-backed applications, centralized logging, and delivery coordination through Azure DevOps and IIS.
+- **Senior Backend Developer (contract), National Development Fund — May 2024 to Aug 2025.** Technical handover, Clean Architecture application development, SSO, API integration, and workflow integration.
+- **Software Engineer II, Softec Technologies — May 2023 to Apr 2024.** Fleet-management development and modernization using ASP.NET Core, EF Core, and Angular, alongside legacy application support.
+- **Earlier experience:** .NET and frontend development at Procoor and WesamSoft; professional full-stack training at ITI.
 
-![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-0F172A?style=flat-square)
-![EF Core](https://img.shields.io/badge/Entity_Framework_Core-0F172A?style=flat-square)
-![REST APIs](https://img.shields.io/badge/REST_APIs-0F172A?style=flat-square)
+## Featured repositories
 
-**Data, integration & operations**
+### [.NET Generative AI Learning](https://github.com/RamadanEssam/dotnet-generative-ai-learning)
 
-![SQL Server](https://img.shields.io/badge/SQL_Server-334155?style=flat-square)
-![Oracle](https://img.shields.io/badge/Oracle-C74634?style=flat-square)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square)
-![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square)
-![Apigee](https://img.shields.io/badge/Apigee-334155?style=flat-square)
-![Ocelot](https://img.shields.io/badge/Ocelot-334155?style=flat-square)
-![Serilog](https://img.shields.io/badge/Serilog-334155?style=flat-square)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square)
+**Problem:** understand how to integrate language models into a .NET backend without coupling all application logic to a model SDK.
 
-**Frontend experience**
+**Work in this repository:** implemented and adapted course examples for local Ollama, plus a stock-lookup exercise, with Arabic learning notes and execution diagnostics.
 
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Vue](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+**Stack:** .NET 10, Microsoft.Extensions.AI, OllamaSharp, VectorData, in-memory vector storage.
 
-## About my work
+**Evidence:** streaming chat, structured extraction, automatic C# tool execution, local embeddings, and movie retrieval with Top-K and an example threshold. Educational data; no production AI deployment, Qdrant, or RAG is claimed.
 
-I'm a Senior Software Engineer based in **Riyadh, Saudi Arabia**, building and modernizing enterprise applications. My professional background includes government and business-critical platforms, secure API integrations, legacy modernization, and collaboration with infrastructure teams.
+### [Ocelot API Gateway Example](https://github.com/RamadanEssam/OcelotGatewayExample)
 
-My focus is reliable backend engineering. I'm extending that foundation with practical Generative AI experiments, rather than presenting course projects as production AI experience.
+**Problem:** expose product and user APIs through a common entry point.
 
-## Featured work
+**Implementation:** Ocelot routing configuration, separate CRUD APIs, service interfaces, EF Core, and SQL Server migrations.
 
-| Project | Focus | Status |
-|---|---|---|
-| [**.NET Generative AI Learning**](https://github.com/RamadanEssam/dotnet-generative-ai-learning) | .NET 10, Ollama, streaming chat, C# tools, embeddings, and in-memory vector search. Includes Arabic walkthroughs. | Active learning lab |
-| [**Ocelot Gateway Example**](https://github.com/RamadanEssam/OcelotGatewayExample) | ASP.NET Core gateway with separate Product and User APIs. | Practice project |
-| [**JWT & Refresh Tokens**](https://github.com/RamadanEssam/JWTRefreshTokenSaqaya) | Authentication practice with .NET 6, JWT, and refresh tokens. | Practice project |
-| [**Clean Architecture**](https://github.com/RamadanEssam/CleanArchitecture) | An earlier exploration of application boundaries and project organization. | Practice project |
+**Stack/status:** ASP.NET Core 7, Ocelot 19.0.2; a legacy practice sample. Build verified during portfolio review; database and HTTP flows were not executed. Broad CORS and missing production policies are documented limitations.
 
-Professional client systems are not published here. Other repositories include course exercises, experiments, and forks used for study.
+### [JWT & Refresh Token API](https://github.com/RamadanEssam/JWTRefreshTokenSaqaya)
 
-## AI learning roadmap
+**Problem:** explore access-token issuance and refresh-token lifecycle in an ASP.NET Core API.
 
-| Practiced in working examples | Next learning goals |
-|---|---|
-| Text completion & streaming | Persistent vector databases |
-| Multi-turn chat history | Retrieval-Augmented Generation |
-| Classification & structured extraction | Evaluation of retrieval and responses |
-| Automatic C# function invocation | Further backend AI integration |
-| Local embeddings & cosine similarity | |
-| In-memory indexing, Top-K & example thresholds | |
+**Implementation:** registration/sign-in, Identity-backed users, refresh-token rotation/revocation, and a protected endpoint.
 
-AI examples use simulated data where applicable. Model output still needs verification; a valid structure does not guarantee correct information.
+**Stack/status:** .NET 6, ASP.NET Core Identity, EF Core, SQL Server. Historical learning sample; build verified with warnings. It needs dependency and authorization hardening before deployment and is not a production security reference.
 
-## My engineering approach
+### [Shaghalny Job Portal](https://github.com/RamadanEssam/Shaghalny-Website)
+
+**Problem:** connect job listings with applicant workflows.
+
+**Implementation visible in the repository:** job/category management, applications, CV upload/download paths, search, and saved jobs.
+
+**Stack/status:** ASP.NET MVC on .NET Framework 4.7.2, EF6, Identity/OWIN, SQL Server. Historical educational project; code reviewed, runtime not verified. No authorship percentage, hosted demo, or hiring outcome is claimed.
+
+Other repositories include earlier exercises and forks used for study. A fork is not presented as an original project or proof of contribution to its upstream codebase.
+
+## Current learning focus
+
+**Practiced:** IChatClient, streaming, chat history, classification, structured extraction, automatic function invocation, embeddings, cosine similarity, and in-memory vector indexing/retrieval.
+
+**Next:** persistent vector stores, RAG, and evaluation of retrieval and generated responses. These are learning goals, not completed production capabilities.
+
+```text
+User intent → model chooses a tool → .NET executes an allowed function
+→ trusted application data → tool result → assistant response
+```
+
+The backend remains responsible for authorization, validation, business rules, and access to data. Model output still needs verification.
+
+## How I work
 
 **Understand → Build → Inspect → Test → Document**
 
-Clear contracts, readable code, and evidence from execution. In AI applications, the model helps interpret intent; the backend owns authorization, validation, business rules, and access to trusted data.
+I value clear contracts, readable code, and evidence from actual execution. There are no self-assigned skill percentages or activity-based expertise scores here.
 
----
-
-<p align="center">Let's talk about .NET backend engineering, enterprise integrations, and practical AI applications.<br/><a href="https://www.linkedin.com/in/ramadanessameita/">Connect with me on LinkedIn</a></p>
+For professional conversations about .NET backend engineering, enterprise integrations, or practical AI integration, [connect on LinkedIn](https://www.linkedin.com/in/ramadanessameita/).
